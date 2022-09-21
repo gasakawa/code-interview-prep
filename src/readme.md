@@ -21,4 +21,4 @@ This repo is divided into two sections. [java](./main/java/com/gasakawa/cip) and
 [Description](./texts/license-key-formatting.md)
 
 - [Java solution](./main/java/com/gasakawa/cip/strings/LicenseKeyFormating.java) | [Test](./test/java/com/gasakawa/cip/strings/LicenseKeyFormattingTests.java)
-- [Javascript solution](./js/arrays/contains-dupliclate.js)
+- [Javascript solution](./js/strings/license-key-formatting.js)
